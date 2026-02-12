@@ -1,6 +1,5 @@
 # Email Spam Classifier
-Predicts whether a mail is spam or not 
-
+This project predicts whether an email is spam or not using a long short term memory model
 # Pipeline
 - Words --> vectors
 
